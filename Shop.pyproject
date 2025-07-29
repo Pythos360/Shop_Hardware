@@ -1,0 +1,18 @@
+{
+    "files": [
+        "addHardware.py",
+        "checkout.py",
+        "emailClass.py",
+        "fakeClass.py",
+        "hardCheck.py",
+        "hardwareCheck.ui",
+        "hardwareSearch.py",
+        "main.py",
+        "mainwindow.ui",
+        "mcmaster.py",
+        "monday.py",
+        "resources.qrc",
+        "ui_hardwareCheck.py",
+        "ui_mainwindow.py"
+    ]
+}
